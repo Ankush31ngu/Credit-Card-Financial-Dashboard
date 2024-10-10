@@ -53,6 +53,7 @@ Steps:- First clean the data and remove duplicates by power query.
 
 
 
+
 Insights:- •         Revenue increased by 28.8%, 
 
            •         Total Transaction Amt & Count increased by xx% & xx%
